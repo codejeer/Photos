@@ -1,2 +1,2 @@
 # Photos
-My fisrt Bootstrap html css and javascript website
+My first Bootstrap html css and javascript website
